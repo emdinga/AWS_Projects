@@ -23,8 +23,7 @@ Each project is documented with detailed steps, architecture diagrams, and code 
 
 | Project Name                         | Description                                     |Technolgies used  |
 |--------------------                  |-------------------------------------------------|------------------|
-| **Cloud Storage -Web Application**   | Designed an architecture leveraging Amazon S3 to enable secure file upload, storage, and sharing. The solution supports files ranging from small documents to large media, ensuring scalability, reliability, and security. [View the Project Architecture][(https://drive.google.com/file/d/19nvkYy2RuR5ZvPjI8h0ZEVS5iA-uKpM6/view?usp=drive_link] | Amazon API , Cloudwacth , Macie S3 security, S3 Standard Intilengent Tiering, Amazon SNS, Amazon Lambda, CLoudFront, Cloud Trail. |
-
+| **Cloud Storage -Web Application**   | Designed an architecture leveraging Amazon S3 to enable secure file upload, storage, and sharing. The solution supports files ranging from small documents to large media, ensuring scalability, reliability, and security. [View the Project Architecture][https://drive.google.com/file/d/19nvkYy2RuR5ZvPjI8h0ZEVS5iA-uKpM6/view?usp=drive_link] | Amazon API , Cloudwacth , Macie S3 security, S3 Standard Intilengent Tiering, Amazon SNS, Amazon Lambda, CLoudFront, Cloud Trail. |
 
 > **Note**: Click on the project links above to view more details in their respective folders.
 
