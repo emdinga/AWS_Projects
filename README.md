@@ -8,12 +8,15 @@ Welcome to the **AWS Projects** repository! This repository contains a collectio
 
 This repository showcases various AWS projects covering a wide range of use cases, including:
 
-- Cloud architecture design
-- Automation and scripting with AWS CLI and SDKs
-- High availability and disaster recovery solutions
-- Security best practices
-- Serverless applications
-- Data analytics and storage solutions
+-Cloud Architecture Design – Building scalable, secure, and cost-efficient cloud-native solutions.
+-Automation and Scripting – Using AWS CLI, SDKs, and Infrastructure as Code (Terraform, AWS SAM) for automation.
+-High Availability & Disaster Recovery – Implementing multi-region deployments, backups, and failover strategies.
+-Security Best Practices – Leveraging IAM, encryption, WAF, and security monitoring tools.
+-Serverless Applications – Developing event-driven architectures with AWS Lambda, API Gateway, and DynamoDB.
+-Data Analytics & Storage Solutions – Using S3, Redshift, and Aurora for data storage, processing, and retrieval.
+-Machine Learning & AI – Deploying AI-driven solutions with Amazon Bedrock, SageMaker, and AI-powered chatbots.
+-Compute & Containerization – Running scalable workloads on Amazon EC2, AWS Fargate, and EKS for container orchestration.
+-Microservices & Kubernetes – Designing distributed architectures with Docker, Kubernetes (EKS), and service meshes.
 
 Each project is documented with detailed steps, architecture diagrams, and code examples to help you understand the implementation.
 
