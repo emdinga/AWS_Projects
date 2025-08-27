@@ -1,6 +1,6 @@
-# AWS Projects 🚀
+# Cloud & Web Projects 🚀
 
-Welcome to the **AWS Projects** repository! This repository contains a collection of hands-on projects, solutions, and experiments I've conducted using Amazon Web Services (AWS). Each project aims to solve real-world problems or demonstrate best practices for cloud architecture.
+Welcome to my Projects repository! This collection showcases hands-on projects, solutions, and experiments I’ve built to solve real-world problems and demonstrate practical cloud and web development skills. Each project includes step-by-step explanations, architecture diagrams, and insights into the implementation.
 
 ---
 
